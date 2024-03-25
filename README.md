@@ -17,7 +17,7 @@
 - 📫 How to reach me: <br>
 <h4> Linkedin: <a href="https://www.linkedin.com/in/juanvillarroelcapetillo/">Juan Villarroel</a></h4>
 
-<h4> Mail: <a href="jcvillarroel_cap@outlook.com?Subject=Hi%20from%20Github">Juan Villarroel</a></h4>
+<h4> Mail:</h4> <a href="jcvillarroel_cap@outlook.com?Subject=Hi%20from%20Github">Juan Villarroel</a>
 <br>
 
 - ⚡ Fun fact: I like Archery 🏹 and playing video games 🎮.
