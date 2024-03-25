@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div align="center">
+ <hi align="center">Hi I'm <a href="https://www.linkedin.com/in/juanvillarroelcapetillo/">Juan Villarroel</a>👋 </hi> 
+</div>
 <!--
 **JuanVillarroelCapetillo/JuanVillarroelCapetillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
