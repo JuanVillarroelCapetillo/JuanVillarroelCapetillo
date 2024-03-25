@@ -1,17 +1,23 @@
 <div align="center">
  <hi align="center">Hi I'm <a href="https://www.linkedin.com/in/juanvillarroelcapetillo/">Juan Villarroel</a>👋 </hi> 
 </div>
-<!--
-**JuanVillarroelCapetillo/JuanVillarroelCapetillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- 🌐 Web Developer
+- ☁️ Cloud Engineer
+- 📲 IoT Engineer
+- 
+
+##
+-  I have a certification from Microsoft in Azure cloud and another one from Samsung in IoT. 
+- 🌱 I’m currently learning more about cloud services and IoT app design. 
+- 💬 Ask me about on my Linkedin profile: <a href="https://www.linkedin.com/in/juanvillarroelcapetillo/">Juan Villarroel</a>
+
+- 📫 How to reach me: <br>
+<h4> Linkedin: <a href="https://www.linkedin.com/in/juanvillarroelcapetillo/">Juan Villarroel</a></h4>
+<br>
+<h4> Mail: <a href="jcvillarroel_cap@outlook.com">Juan Villarroel</a></h4>
+
+- ⚡ Fun fact: I like Archery 🏹 and playing video games 🎮.
+
