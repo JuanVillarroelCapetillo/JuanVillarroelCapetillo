@@ -11,7 +11,7 @@
   
 
 ##
--  I have a certification from Microsoft in Azure cloud and another one from Samsung in IoT. 
+- ⚡ I have a certification from Microsoft in Azure cloud and another one from Samsung in IoT. 
 - 🌱 I’m currently learning more about cloud services and IoT app design. 
 - 💬 Ask me about on my Linkedin profile: <a href="https://www.linkedin.com/in/juanvillarroelcapetillo/">Juan Villarroel</a>
 
