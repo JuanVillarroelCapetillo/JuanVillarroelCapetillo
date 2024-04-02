@@ -1,6 +1,7 @@
 <div align="center">
  <hi align="center">Hi I'm <a href="https://www.linkedin.com/in/juanvillarroelcapetillo/">Juan Villarroel</a>👋 </hi> 
 </div>
+<img src="./1712018698220.png">
 
 
 ## About me
